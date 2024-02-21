@@ -7,8 +7,8 @@
 </head>
 <body>
     <form action="LoginServlet" method="post">
-        Usuario: <input type="text" name="usuario"><br>
-        Contraseña: <input type="password" name="contrasena"><br>
+        Usuario: <input type="text" name="usuario" value="devops"><br>
+        Contraseña: <input type="password" name="contrasena" value="Devops_Tomcat_2024"><br>
         <input type="submit" value="Iniciar sesión">
     </form>
 </body>
